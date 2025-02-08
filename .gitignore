@@ -1,0 +1,3 @@
+# environment
+src/lapack-3.11/*
+src/openmpi-4.1.4/*
